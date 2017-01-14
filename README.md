@@ -23,7 +23,7 @@ Compiled with clang -O3, a Macbook Air (Mid-2012) Intel i7-3667U 2GHz.
 <img src="https://raw.githubusercontent.com/Vectorized/Static-Sort/master/timings_n.png" alt="C++ Templated Bose-Nelson Static Sort Timings" width="680"/>
 
 Here are the average clocks per sort against other static sorts from   
-[http://stackoverflow.com/questions/2786899/fastest-sort-of-fixed-length-6-int-array]   
+http://stackoverflow.com/questions/2786899/fastest-sort-of-fixed-length-6-int-array   
 (Lower is better)  
 
 	Clang -O3 :
